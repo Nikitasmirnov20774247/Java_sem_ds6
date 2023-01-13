@@ -12,7 +12,7 @@
 ### Отфильтровать ноутбуки их первоначального множества и вывести проходящие по условиям.
 
 ## Notebook
-![i_Notebook](../JavaDs_06/images_file/iNotebook.png)
+![i_Notebook](images_file/iNotebook.png)
 
 ## Main 
-![i_Main](../JavaDs_06/images_file/iMain.png)
+![i_Main](images_file/iMain.png)
